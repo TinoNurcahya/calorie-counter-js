@@ -1,6 +1,6 @@
 # 🍽️ Calorie Counter
 
-A simple calorie counter web app built as part of the **FreeCodeCamp JavaScript course**.  
+A simple calorie counter web app built as part of the **FreeCodeCamp JavaScript form validation**.  
 This app helps users calculate their daily calorie intake and compare it with their budget.
 
 ---
