@@ -36,4 +36,4 @@ This app helps users calculate their daily calorie intake and compare it with th
 
 
 ## 🔗 Link Website
-[https://tinonurcahya.github.io/calorie_counter/]
+[https://tinonurcahya.github.io/calorie-counter-js/]
